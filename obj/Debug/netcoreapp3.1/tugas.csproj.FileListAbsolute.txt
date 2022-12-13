@@ -1,0 +1,59 @@
+E:\21.11.4294\Praktikum 7\tugas\bin\Debug\netcoreapp3.1\tugas.exe
+E:\21.11.4294\Praktikum 7\tugas\bin\Debug\netcoreapp3.1\tugas.deps.json
+E:\21.11.4294\Praktikum 7\tugas\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.json
+E:\21.11.4294\Praktikum 7\tugas\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.dev.json
+E:\21.11.4294\Praktikum 7\tugas\bin\Debug\netcoreapp3.1\tugas.dll
+E:\21.11.4294\Praktikum 7\tugas\bin\Debug\netcoreapp3.1\tugas.pdb
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas.csprojAssemblyReference.cache
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\App.g.cs
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas_MarkupCompile.cache
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas_MarkupCompile.lref
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas.g.resources
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas.AssemblyInfoInputs.cache
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas.AssemblyInfo.cs
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas.csproj.CoreCompileInputs.cache
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas.dll
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas.pdb
+E:\21.11.4294\Praktikum 7\tugas\obj\Debug\netcoreapp3.1\tugas.genruntimeconfig.cache
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\bin\Debug\netcoreapp3.1\tugas.exe
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\bin\Debug\netcoreapp3.1\tugas.deps.json
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.json
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.dev.json
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\bin\Debug\netcoreapp3.1\tugas.dll
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\bin\Debug\netcoreapp3.1\tugas.pdb
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas.csproj.AssemblyReference.cache
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\App.g.cs
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas_MarkupCompile.cache
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas_MarkupCompile.lref
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas.g.resources
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas.AssemblyInfoInputs.cache
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas.AssemblyInfo.cs
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas.csproj.CoreCompileInputs.cache
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas.dll
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas.pdb
+D:\pemograman lanjut\tugas-20221210T093533Z-001\tugas\obj\Debug\netcoreapp3.1\tugas.genruntimeconfig.cache
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas.dll
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas.pdb
+D:\PemrogramanLanjut\DataGrid-simple-program\bin\Debug\netcoreapp3.1\tugas.exe
+D:\PemrogramanLanjut\DataGrid-simple-program\bin\Debug\netcoreapp3.1\tugas.deps.json
+D:\PemrogramanLanjut\DataGrid-simple-program\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.json
+D:\PemrogramanLanjut\DataGrid-simple-program\bin\Debug\netcoreapp3.1\tugas.runtimeconfig.dev.json
+D:\PemrogramanLanjut\DataGrid-simple-program\bin\Debug\netcoreapp3.1\tugas.dll
+D:\PemrogramanLanjut\DataGrid-simple-program\bin\Debug\netcoreapp3.1\tugas.pdb
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas.csproj.AssemblyReference.cache
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\App.g.cs
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas_MarkupCompile.cache
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas_MarkupCompile.lref
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas.g.resources
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas.GeneratedMSBuildEditorConfig.editorconfig
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas.AssemblyInfoInputs.cache
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas.AssemblyInfo.cs
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas.csproj.CoreCompileInputs.cache
+D:\PemrogramanLanjut\DataGrid-simple-program\obj\Debug\netcoreapp3.1\tugas.genruntimeconfig.cache

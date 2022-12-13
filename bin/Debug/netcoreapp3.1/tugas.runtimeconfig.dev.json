@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MSI Modern 14\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MSI Modern 14\\.nuget\\packages"
+    ]
+  }
+}

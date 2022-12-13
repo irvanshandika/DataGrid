@@ -1,0 +1,52 @@
+﻿<Window x:Class="tugas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tugas"
+        mc:Ignorable="d"
+        Title="21.11.4285" Height="600" Width="510">
+    <Grid Margin="10">
+        <Label Content="Students Form" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="10,58,0,0" VerticalAlignment="Top"/>
+        <Label Content="Age" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top"/>
+        <Label Content="Address" HorizontalAlignment="Left" Margin="10,151,0,0" VerticalAlignment="Top"/>
+        <Label Content="Contact" HorizontalAlignment="Left" Margin="10,202,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="savebtn" Content="Save" HorizontalAlignment="Left" Margin="365,254,0,0" VerticalAlignment="Top" Width="50" Click="savebtn_Click" />
+        <Button x:Name="cancelbtn" Content="cancel" HorizontalAlignment="Left" Margin="420,254,0,0" VerticalAlignment="Top" Width="50" Click="cancelbtn_Click"/>
+        <TextBox x:Name="textnama" HorizontalAlignment="Left" Margin="66,66,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="271"/>
+        <TextBox x:Name="textumur" HorizontalAlignment="Left" Margin="66,103,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="60"/>
+        <TextBox x:Name="textalamat" HorizontalAlignment="Left" Margin="63,155,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="271"/>
+        <TextBox x:Name="textkontak" HorizontalAlignment="Left" Margin="66,206,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="271"/>
+        <DataGrid x:Name="data" Margin="0,282,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="kolom_nama" Header="Name" Width="100" Binding="{Binding kolom_nama}"/>
+                <DataGridTextColumn x:Name="kolom_umur" Header="Age" Binding="{Binding kolom_umur}"/>
+                <DataGridTextColumn x:Name="kolom_alamat" Header="Address" Width="100" Binding="{Binding kolom_alamat}"/>
+                <DataGridTextColumn x:Name="kolom_kontak" Header="Contact" Width="100" Binding="{Binding kolom_kontak}"/>
+                <DataGridTemplateColumn Header="Fungsi" IsReadOnly="True">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Name="deletebtn" Content="Delete" Click="deletebtn_Click"></Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Fungsi" IsReadOnly="True">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Name="selectbtn" Content="select" Click="selectbtn_Click"></Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+           
+        </DataGrid>
+       
+
+
+    </Grid>
+</Window>
